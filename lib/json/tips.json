@@ -1,0 +1,51 @@
+[
+  {
+    "title" :  "Add flavor to your pitcher",
+    "tip" : "You can add a little bit of excitement and flavor by steeping fresh fruit (grapefruit,",
+    "detail": "You can add a little bit of excitement and flavor by steeping fresh fruit (grapefruit, strawberries, lemon), veggie slices (cucumber, ginger, celery), and herbs (basil, mint, lavender) in your carafe. Read 27 Fruit-Infused Waters to Stay Hydrated This Season to get inspiration for some tasty add-in combinations. The longer you let it steep, the tastier each cup will be. And you can play around with different combos, like cucumber mint or basil lemon.",
+    "img" : "images/basil.png"
+
+  },
+  {
+    "title" : "Drink a glass after every bathroom break",
+    "tip" : "Start a habit by linking drinking water with one of your most common daily activities—going to the bathroom",
+    "detail" : " Start a habit by linking drinking water with one of your most common daily activities—going to the bathroom. Getting up from your desk for a bathroom break? Stop by the kitchen to chug a glass of water. It's just another way to build the habit into your daily routine. You'll already be getting up, which means it's a perfect time to stop by the water cooler or the faucet to fill up your bottle or glass. And it will set up a great cycle: The more water you drink, the more you'll have to go to the bathroom, which means the more water you will drink, and so on. Basically, it's the good kind of self-fulfilling prophecy.",
+    "img" : "images/drink.png"
+  },
+  {
+    "title" : "Sip before every meal",
+    "tip": "If you are making dinner at home, sip while you cook and prep. If you're out at a restaurant, ask for water when the server comes around to take drink orders. ",
+    "detail" : "If you are making dinner at home, sip while you cook and prep. If you're out at a restaurant, ask for water when the server comes around to take drink orders. If you're waiting for your lunch to heat up or your toast to pop, drink water while doing it. Even if you're putting together a snack, drink that water. It's just a simple rule that will help you drink more water. Once you establish these little \"rules,\" you'll find that you're doing it almost automatically without having to think about it or put much effort into it at all.",
+    "img" : "images/sip.png"
+  },
+  {
+    "title" : "Dilute sugary drinks with water and ice",
+    "tip" : "If you're drinking something extra sweet like juice, lemonade, or iced tea, water down your beverage by adding ice or even diluting a cup with some water. ",
+    "detail" : "If you're drinking something extra sweet like juice, lemonade, or iced tea, water down your beverage by adding ice or even diluting a cup with some water. You’ll still get the sweetness you’re craving and have some extra water at the same time. If you're not looking forward to having a less sweet version of the thing you're drinking, fair enough, and this tip might not be for you. But every now and again I order a beverage I expect to be a little sweet and discover that it's mouth-puckeringly sweet. In those cases, I don't mind adding extra ice or some water.",
+    "img" : "images/sugar.png"
+  },
+  {
+    "title": "Choose sparkling or mineral water over soda",
+    "tip" : "Sure, you're not going to replace every deliciously sweet soda with seltzer but if you're anything like me, you wander over to a vending machine or the corner ..",
+    "detail": "Sure, you're not going to replace every deliciously sweet soda with seltzer but if you're anything like me, you wander over to a vending machine or the corner store or the fridge more because you're bored or want to take a break from work or want to drink SOMEthing rather than because you're jonesing specifically for a Sprite. If you're in one of those modes where just about any fizzy drink will do, choose a fizzy water. Add a squeeze of lime juice, and it's basically like drinking a fancy mocktail. Check out A Definitive Guide to the Best Sparkling Waters for a rundown of the most popular brands.",
+    "img" : "images/spark.png"
+  },
+  {
+    "title": "Eat water-rich foods",
+    "tip": "  One sneaky way to increase the amount of water you consume on a daily basis: eat your H2O",
+    "detail" : "One sneaky way to increase the amount of water you consume on a daily basis: eat your H2O. Add fruits and vegetables with a high water content to your grocery shopping list. Some top picks include cucumber (96% water), zucchini (95% water), watermelon (92% water), and grapefruit (91% water).",
+    "img" : "images/waterrich.png"
+  },
+  {
+    "title" : " Stick to a one-to-one rule when drinking alcohol",
+    "tip" : "You’ve probably heard the drinking rule: for every cocktail you drink, have one glass of water. This is a great strategy to stay hydrated ",
+    "detail" : "You’ve probably heard the drinking rule: for every cocktail you drink, have one glass of water. This is a great strategy to stay hydrated while imbibing, and while some people use it in the hopes that their hangover might be a little less brutal the next day if they aren't so dehydrated, it's also a winning strategy for anyone who needs those little rules and triggers to get them to keep doing that thing they mean to keep doing but sometimes forget to (or find a way to avoid).",
+    "img" : "images/1.png"
+  },
+  {
+    "title" : " Snack on salty stuff",
+    "tip" : "Truth be told I'm probably more of a grazer than a snacker. I'm almost never not snacking. And I notice that when I'm chomping on salted almonds or pretzels,",
+    "detail" : "Truth be told I'm probably more of a grazer than a snacker. I'm almost never not snacking. And I notice that when I'm chomping on salted almonds or pretzels, you'd have to fight me to get my water bottle out of my hands. Everyone has different needs around sodium and different likes and dislikes for flavor, too. But if salty stuff is your jam and you're snacking anyway, why not marry the two and graze on stuff that will make you reach for your water bottle. There's nothing like salted nuts or beef jerky to get you to pound water.",
+    "img" : "images/salt.png"
+  }
+]
